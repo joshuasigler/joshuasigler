@@ -1,16 +1,55 @@
-## Hi there 👋
+# Hi, I'm Joshua 👋
 
-<!--
-**joshuasigler/joshuasigler** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build AI-native software systems that help people work, learn, and play.
 
-Here are some ideas to get you started:
+Currently focused on:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎾 Park Tennis
+- 🤖 AI agents & automation
+- 🧠 Personal operating systems
+- ⚙️ Developer workflows
+
+---
+
+## Featured Projects
+
+### Park Tennis
+
+Building software for public racquet sports.
+
+**Tech**
+- Next.js
+- Supabase
+- TypeScript
+- Vercel
+
+---
+
+### Sigler Family OS
+
+A personal operating system powered by AI.
+
+Areas include:
+
+- Travel
+- Finance
+- Home
+- Family
+- Knowledge
+- Automation
+
+---
+
+## Current Interests
+
+- AI product architecture
+- Agent workflows
+- Durable memory
+- Human-in-the-loop systems
+- Modern web infrastructure
+
+---
+
+## Tech
+
+TypeScript • Next.js • Supabase • Vercel • Notion • OpenAI
