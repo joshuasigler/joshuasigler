@@ -10,7 +10,7 @@ I work in enterprise sales and build products and AI workflows of my own. I’m 
 
 I started Park Tennis to help public-court players discover independent tennis brands. I chose to build a guide before building a store, created a rubric for selecting brands, and put a research and editorial review workflow behind the live index.
 
-[Case study](https://joshuasigler.com/work/park-tennis-brand-index/) · [Live Brand Index](https://parktennis.com/brands)
+[Case study](https://joshuasigler.com/work/park-tennis-brand-index/) · [Live Brand Index](https://parktennis.com/brands) · [Park Tennis on GitHub](https://github.com/park-tennis)
 
 ### Resale Workflow
 
